@@ -78,27 +78,6 @@ https://drive.google.com/open?id=0BxgPTM7nEUyCVFVpWWdjU01DdVk
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCb2dMR29JTU5qNTg
 
-2.1 Hill to Land Attack (Real Drone Attack) (Effect - No Landing)
-
--Target Environment: altitude before landing > 10m (uncompromised)
-
-https://drive.google.com/open?id=0BxgPTM7nEUyCMmZTVVh4VEotUVE
-
--Target Environment: altitude before landing > 10m (compromised)
-
-https://drive.google.com/open?id=0BxgPTM7nEUyCV1lKNE0tWGIzb1k
-
-This attack should make the drone stop in the air before
-
-landing until running out of battery according to the simulation result.
-
-However, to our surprise, this attack crashes the real drone at the landing point
-
-in reality.
-
--Normal Environment: altitude before landing < 10m
-
-https://drive.google.com/open?id=0BxgPTM7nEUyCYVQtbVdhWVNEN1U
 
 -------------------------------------------------------------------------------
 
