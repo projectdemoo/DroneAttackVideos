@@ -2,9 +2,7 @@
 
 Attack Videos
 
-We will keep uploading the videos for the 
-
-presented attacks.
+We will keep uploading the videos for the presented attacks.
 
 Some attack videos for real drone are available for watching. 
 
@@ -12,7 +10,7 @@ However, some attacks may result in serious outcome, such as
 
 drone out of control or crash.
 
-Thus, we are focusing on the attacks that are more obvious and safer 
+Thus, we are focusing on the attacks that are obvious and safer 
 
 when shooting the real attack video.
 
