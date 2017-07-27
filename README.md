@@ -8,19 +8,23 @@ presented attacks.
 
 Some attack videos for real drone are available for watching. 
 
-Sorry about that we cannot provides all the attack videos because
+However, some attacks may result in serious outcome, such as
 
-we broke our experiment drones during the attack.
+drone out of control or crash.
 
-Thus, it may take a while to repair the drone.
+Thus, we are focusing on the attacks that are more obvious and safer 
+
+when shooting the real attack video.
 
 ArduCopter Attack:
 
 -------------------------------------------------------------------------------
+Wind Attack:
+-------------------------------------------------------------------------------
 
-Wind Attack: 
+Simulated Attack:
 
-1. Strong Wind Attack (Effect - Crash)
+1. Strong Wind: Effect - Crash
 
 -Target Environment: wind speed > 15mph
 
@@ -30,7 +34,7 @@ Wind Attack:
 
 --https://drive.google.com/open?id=0BxgPTM7nEUyCN0JFMGc0d2I4STg
 
-2. Weak Wind Attack (Effect - Crash)
+2. Weak Wind: Effect - Crash
 
 -Target Environment: wind speed < 5mph
 
@@ -41,10 +45,12 @@ Wind Attack:
 --https://drive.google.com/open?id=0BxgPTM7nEUyCWjZHVHJqWXB0UVk
 
 -------------------------------------------------------------------------------
-
 Height Attack:
+-------------------------------------------------------------------------------
 
-1. Land to Hill Attack (Effect - Keep rising)
+Simulated Attack:
+
+1. Land to Hill Attack: Effect - Keep rising
 
 -Target Environment: flying altitude > 178m
 
@@ -54,36 +60,57 @@ https://drive.google.com/open?id=0BxgPTM7nEUyCNGxiMWxEVy1uUmc
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCRkJ1YTY5MFZpT2M
 
-1.1 Land to Hill Attack (Real Drone Attack) (Effect - Stop moving)
+2. Hill to Land Attack: Effect - Keep rising
 
--Target Environment: flying altitude > 10m (uncompromised)
+-Target Environment: landing altitude > 205m
 
-https://drive.google.com/open?id=0BxgPTM7nEUyCMmU1MXBUejIwYm8
+https://drive.google.com/open?id=0BxgPTM7nEUyCUnY4NXNISnNIckE
 
--Target Environment: flying altitude > 10m (compromised)
-
-https://drive.google.com/open?id=0BxgPTM7nEUyCdUREVmx4YXNJU2M
-
--Normal Environment: flying altitude < 10m
-
-https://drive.google.com/open?id=0BxgPTM7nEUyCcFVaZzFaNW9Melk
-
-2. Hill to Land Attack (Effect - No Landing)
-
--Target Environment: altitude before landing > 205m
-
-https://drive.google.com/open?id=0BxgPTM7nEUyCVFVpWWdjU01DdVk
-
--Normal Environment: altitude before landing < 205m
+-Normal Environment: landing altitude < 205m
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCb2dMR29JTU5qNTg
 
+Real Attack:
+
+1. Land to Hill Attack: Effect - Stop in the air
+
+-Target Environment: flying altitude > 10m (Uncompromised)
+
+https://drive.google.com/open?id=0BxgPTM7nEUyCMVlReDk4ODZXSlE
+
+-Target Environment: flying altitude > 10m (Compromised)
+
+https://drive.google.com/open?id=0BxgPTM7nEUyCYzJBTGpQbmVlNjg
+
+-Normal Environment: flying altitude < 10m (Compromised)
+
+https://drive.google.com/open?id=0BxgPTM7nEUyCdFdROXA3anN5VGM
+
+2. Hill to Land Attack: Effect - Keep rising right above the landing point
+
+-Target Environment: landing altitude > 10m (Uncompromised)
+
+https://drive.google.com/open?id=0BxgPTM7nEUyCOGg0WmdBX25xWXM
+
+-Target Environment: landing altitude > 10m (Compromised)
+
+https://drive.google.com/open?id=0BxgPTM7nEUyCNHBkcUVyUjRtWWc
+
+-Normal Environment: landing altitude < 10m (Compromised)
+
+https://drive.google.com/open?id=0BxgPTM7nEUyCVkRIVDZUOWdxd00
 
 -------------------------------------------------------------------------------
 
 APMrover2 Attack:
 
-1. Turning Attack: (Effect - Wrong turn)
+-------------------------------------------------------------------------------
+Sharp Turn Attack
+-------------------------------------------------------------------------------
+
+Simulated Attack:
+
+1. Sharp Turn Attack: Effect - Wrong turn
 
 -Target Environment: left turning angle > 143 deg
 
@@ -95,4 +122,22 @@ https://drive.google.com/open?id=0BxgPTM7nEUyCSm5HVHF6WkwyM3M
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCb29iRWpVQUV1Yk0
 
+Real Attack:
+
+-Target Environment: left turning angle > 90 deg (Uncompromised)
+
+https://drive.google.com/open?id=0BxgPTM7nEUyCcjhtNEdnWldvWjA
+
+-Target Environment: left turning angle > 90 deg (Compromised)
+
+-Attack happens at waypoint 2
+
+https://drive.google.com/open?id=0BxgPTM7nEUyCOGFOTm1HNWVDSGc
+
+-Normal Environment: left turning angle < 90 deg (Compromised)
+
+https://drive.google.com/open?id=0BxgPTM7nEUyCVEhVUXhNN0Q3aHM
+
+
 -------------------------------------------------------------------------------
+
