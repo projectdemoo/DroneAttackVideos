@@ -10,9 +10,7 @@ However, some attacks may result in serious outcome, such as
 
 drone out of control or crash.
 
-Thus, we are focusing on the attacks that are obvious and safer 
-
-when shooting the real attack video.
+Thus, ww shoot the attacks that are obvious and safer first.
 
 ArduCopter Attack:
 
