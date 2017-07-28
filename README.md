@@ -10,7 +10,9 @@ However, some attacks may result in serious outcome, such as
 
 drone out of control or crash.
 
-Thus, ww shoot the attacks that are obvious and safer first.
+Thus, we are focusing on the attacks that are obvious and safer 
+
+when shooting the real attack video.
 
 ArduCopter Attack:
 
@@ -124,11 +126,17 @@ Real Attack:
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCcjhtNEdnWldvWjA
 
--Target Environment: left turning angle > 90 deg (Compromised)
+-Target Environment: left turning angle > 90 deg (Compromised and blocked)
 
 -Attack happens at waypoint 2
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCOGFOTm1HNWVDSGc
+
+-Target Environment: left turning angle > 90 deg (Compromised but not blocked)
+
+-Attack happens at waypoint 2
+
+https://drive.google.com/open?id=0BxgPTM7nEUyCRUJ0WXpZWXNMdEE
 
 -Normal Environment: left turning angle < 90 deg (Compromised)
 
