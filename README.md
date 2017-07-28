@@ -136,7 +136,7 @@ https://drive.google.com/open?id=0BxgPTM7nEUyCOGFOTm1HNWVDSGc
 
 -Attack happens at waypoint 2
 
-https://drive.google.com/open?id=0BxgPTM7nEUyCRUJ0WXpZWXNMdEE
+https://drive.google.com/open?id=0BxgPTM7nEUyCN2FkQWRfal9WNm8
 
 -Normal Environment: left turning angle < 90 deg (Compromised)
 
