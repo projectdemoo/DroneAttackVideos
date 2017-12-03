@@ -24,7 +24,7 @@ Simulated Attack:
 
 1. Strong Wind: Effect - Crash
 
--Target Environment: wind speed > 15mph
+-Target Attack Environment: wind speed > 15mph
 
 --https://drive.google.com/open?id=0BxgPTM7nEUyCTEZlTy1lbDBLUEk
 
@@ -34,7 +34,7 @@ Simulated Attack:
 
 2. Weak Wind: Effect - Crash
 
--Target Environment: wind speed < 5mph
+-Target Attack Environment: wind speed < 5mph
 
 --https://drive.google.com/open?id=0BxgPTM7nEUyCMzBScl9obnZ5a1k
 
