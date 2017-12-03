@@ -50,7 +50,7 @@ Simulated Attack:
 
 1. Land to Hill Attack: Effect - Keep rising
 
--Target Environment: flying altitude > 178m
+-Target Attack Environment: flying altitude > 178m
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCNGxiMWxEVy1uUmc
 
@@ -60,7 +60,7 @@ https://drive.google.com/open?id=0BxgPTM7nEUyCRkJ1YTY5MFZpT2M
 
 2. Hill to Land Attack: Effect - Keep rising
 
--Target Environment: landing altitude > 205m
+-Target Attack Environment: landing altitude > 205m
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCUnY4NXNISnNIckE
 
@@ -72,11 +72,11 @@ Real Attack:
 
 1. Land to Hill Attack: Effect - Stop in the air
 
--Target Environment: flying altitude > 10m (Uncompromised)
+-Target Attack Environment: flying altitude > 10m (Uncompromised)
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCMVlReDk4ODZXSlE
 
--Target Environment: flying altitude > 10m (Compromised)
+-Target Attack Environment: flying altitude > 10m (Compromised)
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCYzJBTGpQbmVlNjg
 
@@ -86,11 +86,11 @@ https://drive.google.com/open?id=0BxgPTM7nEUyCdFdROXA3anN5VGM
 
 2. Hill to Land Attack: Effect - Keep rising right above the landing point
 
--Target Environment: landing altitude > 10m (Uncompromised)
+-Target Attack Environment: landing altitude > 10m (Uncompromised)
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCOGg0WmdBX25xWXM
 
--Target Environment: landing altitude > 10m (Compromised)
+-Target Attack Environment: landing altitude > 10m (Compromised)
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCNHBkcUVyUjRtWWc
 
@@ -110,7 +110,7 @@ Simulated Attack:
 
 1. Sharp Turn Attack: Effect - Wrong turn
 
--Target Environment: left turning angle > 143 deg
+-Target Attack Environment: left turning angle > 143 deg
 
 -Attack happens at waypoint 2
 
@@ -122,17 +122,17 @@ https://drive.google.com/open?id=0BxgPTM7nEUyCb29iRWpVQUV1Yk0
 
 Real Attack:
 
--Target Environment: left turning angle > 90 deg (Uncompromised)
+-Target Attack Environment: left turning angle > 90 deg (Uncompromised)
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCcjhtNEdnWldvWjA
 
--Target Environment: left turning angle > 90 deg (Compromised and blocked)
+-Target Attack Environment: left turning angle > 90 deg (Compromised and blocked)
 
 -Attack happens at waypoint 2
 
 https://drive.google.com/open?id=0BxgPTM7nEUyCOGFOTm1HNWVDSGc
 
--Target Environment: left turning angle > 90 deg (Compromised but not blocked)
+-Target Attack Environment: left turning angle > 90 deg (Compromised but not blocked)
 
 -Attack happens at waypoint 2
 
